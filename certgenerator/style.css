@@ -1,0 +1,23 @@
+.top-buffer{
+	margin-top: 30px;
+}
+.header{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-decoration: underline;
+	text-align: center;
+}
+.intro{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 40px;
+}
+.basicinfobody{
+	background-image: url(https://www.solidbackgrounds.com/download/2560x1440-blue-stained-glass-free-website-background-image.jpg);
+	background-repeat: no-repeat;
+	background-size: auto;
+}
