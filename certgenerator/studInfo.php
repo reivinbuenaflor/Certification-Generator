@@ -35,16 +35,16 @@
                     </div>
                     <select name="yrLvl" class="custom-select" id="inputGroupSelect01" >
                       <option value="1">Choose...</option>
-                      <option value="grd1">Grade 1</option>
-                      <option value="grd2">Grade 2</option>
-                      <option value="grd3">Grade 3</option>
-                      <option value="grd4">Grade 4</option>
-                      <option value="grd5">Grade 5</option>
-                      <option value="grd6">Grade 6</option>
-                      <option value="grd7">Grade 7</option>
-                      <option value="grd8">Grade 8</option>
-                      <option value="grd9">Grade 9</option>
-                      <option value="grd">Grade 10</option>
+                      <option value="Grade 1">Grade 1</option>
+                      <option value="Grade 2">Grade 2</option>
+                      <option value="Grade 3">Grade 3</option>
+                      <option value="Grade 4">Grade 4</option>
+                      <option value="Grade 5">Grade 5</option>
+                      <option value="Grade 6">Grade 6</option>
+                      <option value="Grade 7">Grade 7</option>
+                      <option value="Grade 8">Grade 8</option>
+                      <option value="Grade 9">Grade 9</option>
+                      <option value="Grade 10">Grade 10</option>
                     </select>
                   </div>
                </div>
