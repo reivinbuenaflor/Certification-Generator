@@ -13,7 +13,22 @@
     <title>Student Information</title>
   </head>
   <body class="basicinfobody">
-     
+     <nav class="navbar navbar-dark bg-dark">
+      <!-- Navbar content -->
+      <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Edit</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Logout</a>
+      </li>
+      </ul>
+     </nav>
+     <br>
+     <br>
      <div class="container">
        <div class="card">
          <h5 class="card-header">
